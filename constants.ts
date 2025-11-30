@@ -53,14 +53,14 @@ export const EDUCATION: Education[] = [
     degree: "M.Tech in Geoinformatics",
     institution: "Indian Institute of Technology Bombay",
     year: "2026",
-    score: "CPI: 8.23"
+    
   },
   {
     id: "edu2",
     degree: "Graduation (CSE)",
     institution: "DR Br Ambedkar University",
     year: "2023",
-    score: "7.66"
+  
   }
 ];
 
