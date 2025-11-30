@@ -114,7 +114,7 @@ export const PROJECTS: Project[] = [
 export const SKILLS: SkillCategory[] = [
   {
     category: "Languages & Core",
-    skills: ["Python", "JavaScript", "TypeScript", "C++", "HTML5", "CSS3"]
+    skills: ["Python", "JavaScript", "TypeScript", "HTML5", "CSS3"]
   },
   {
     category: "Frontend",
